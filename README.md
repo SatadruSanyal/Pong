@@ -1,5 +1,5 @@
 # Pong
-**A game of pong with arcade-style graphics written in C; designed to be playable multiplayer or single player. First player to 5 wins (can be easily modified) **
+__A game of pong with arcade-style graphics written in C; designed to be playable multiplayer or single player. First player to 5 wins (can be easily modified)__ 
 
 ## Features:
         - Standard 2 player mode
