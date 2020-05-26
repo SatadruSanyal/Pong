@@ -1,6 +1,3 @@
-//
-// Created by Akanksha on 12/06/19.
-//
 #include <stdlib.h>
 #include <ncurses.h>
 #include <unistd.h>
